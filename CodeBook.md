@@ -99,6 +99,6 @@ STEP 5
 We save the data frames TOTAL.DF and REDUCED.DF as csv files and we also save a copy of all the variables 
 names (561 derived features with modified names according to step 1, and 18 newly calculated variables 
 according to step 2(b)).
-An additional file that updates the file ‘features.txt’ but that applied only to the tidy data sets generated in 
-this analysis and named ‘features_updated.txt’ is also provided.
+An additional file that updates the file ‘features.txt’ (named 'features_updated.txt') that includes the 
+variables in the tidy data set generated in this analysis is also provided.
  

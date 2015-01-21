@@ -22,8 +22,8 @@ STEP 4.- Subset the ‘total’ data set created in (3) with conditional information
 value of the variables per activity.
 STEP 5.- Saving all the results.
 
-An additional file that updates the file ‘features.txt’ but that applied only to the tidy data sets generated in 
-this analysis and named ‘features_updated.txt’ is also provided.
+An additional file that updates the file ‘features.txt’ (named 'features_updated.txt') that includes the 
+variables in the tidy data set generated in this analysis is also provided.
 
 In case the peer reviewers find problems visualizing the tidy data set (question 1-uploading the tidy data 
 set), we also placed the generated tidy data set (Reduced.csv) in the provided Github link.
